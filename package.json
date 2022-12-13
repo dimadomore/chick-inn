@@ -14,7 +14,7 @@
     "@woocommerce/woocommerce-rest-api": "^1.0.1",
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "formik": "^2.1.4",
     "lockr": "^0.8.5",
     "next": "^9.5.5",
